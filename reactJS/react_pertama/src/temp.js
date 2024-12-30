@@ -1,0 +1,678 @@
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_CREDIT_TYPE",
+  hasil.get(0).get(0)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_FACILITY_STATUS",
+  hasil.get(0).get(1)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_FULL_NAME",
+  hasil.get(0).get(2)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_BANK_NAME",
+  hasil.get(0).get(3)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_CEILING",
+  hasil.get(0).get(4)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_TENOR",
+  hasil.get(0).get(5)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_DUE_DATE",
+  hasil.get(0).get(6)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_TYPE_OF_USE",
+  hasil.get(0).get(7)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_OUTSTANDING_TOTAL",
+  hasil.get(0).get(8)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_MONTHLY_INSTALLMENT_ESTIMATE",
+  hasil.get(0).get(9)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_CURRENT_MONTH_KOL",
+  hasil.get(0).get(10)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_RESTRUCTURING_STATUS",
+  hasil.get(0).get(11)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_FINAL_RESTRUCTURING_DATE",
+  hasil.get(0).get(12)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_RESTRUCTURING_NOTES",
+  hasil.get(0).get(13)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_PAID_OFF_STATUS",
+  hasil.get(0).get(14)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_APPLICANT_OWNED",
+  hasil.get(0).get(15)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_FULL_NAME",
+  hasil.get(0).get(16)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_NIK",
+  hasil.get(0).get(17)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_GENDER",
+  hasil.get(0).get(18)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_NPWP",
+  hasil.get(0).get(19)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_BIRTH_PLACE",
+  hasil.get(0).get(20)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_BIRTH_DATE",
+  hasil.get(0).get(21)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ADDRESS",
+  hasil.get(0).get(22)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_SUBDISTRICT_VILLAGE",
+  hasil.get(0).get(23)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_DISTRICT",
+  hasil.get(0).get(24)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_CITY_REGENCY",
+  hasil.get(0).get(25)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_POSTCODE",
+  hasil.get(0).get(26)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_COUNTRY",
+  hasil.get(0).get(27)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_OCCUPATION",
+  hasil.get(0).get(28)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_WORKPLACE",
+  hasil.get(0).get(29)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_BUSINESS_FIELD",
+  hasil.get(0).get(30)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_DEBTOR_TITLE_STATUS",
+  hasil.get(0).get(31)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_APPLICATION_ID",
+  hasil.get(0).get(32)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_BATCH_ID",
+  hasil.get(0).get(33)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_CREATED_DATE",
+  hasil.get(0).get(34)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_PROCESS_BY",
+  hasil.get(0).get(35)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_CUSTOMER_NAME",
+  hasil.get(0).get(36)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_REPORTER",
+  hasil.get(0).get(37)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_BRANCH_ID",
+  hasil.get(0).get(38)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_BRANCH",
+  hasil.get(0).get(39)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_OUTSTANDING_BALANCE",
+  hasil.get(0).get(40)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_FORMATION_DATE",
+  hasil.get(0).get(41)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_INSTALLMENT",
+  hasil.get(0).get(42)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_MONTH",
+  hasil.get(0).get(43)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_UPDATE_DATE",
+  hasil.get(0).get(44)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_CREDIT_NATURE_ID",
+  hasil.get(0).get(45)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_YEAR",
+  hasil.get(0).get(46)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_FINANCING_ID",
+  hasil.get(0).get(47)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_CREDIT_NATURE",
+  hasil.get(0).get(48)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ID_CREDIT",
+  hasil.get(0).get(49)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_CREDIT_TYPE",
+  hasil.get(0).get(50)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ACCOUNT_NUMBER",
+  hasil.get(0).get(51)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_CREDIT_CONTRACT",
+  hasil.get(0).get(52)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_INITIAL_CONTRACT_NUMBER",
+  hasil.get(0).get(53)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_NEWEXTENSION",
+  hasil.get(0).get(54)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_INITIAL_CONTRACT_DATE",
+  hasil.get(0).get(55)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_FINAL_CONTRACT_NUMBER",
+  hasil.get(0).get(56)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_START_DATE",
+  hasil.get(0).get(57)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_FINAL_AGREEMENT_DATE",
+  hasil.get(0).get(58)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_DUE_DATE",
+  hasil.get(0).get(59)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ID_DEBTOR_CATEGORY",
+  hasil.get(0).get(60)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_DEBTOR_CATEGORY",
+  hasil.get(0).get(61)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_TYPE_OF_ID_USE",
+  hasil.get(0).get(62)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_TYPE_OF_USE",
+  hasil.get(0).get(63)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ID_ECONOMIC_SECTOR",
+  hasil.get(0).get(64)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ECONOMIC_SECTOR",
+  hasil.get(0).get(65)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_GOVERNMENT_PROGRAM_CREDIT",
+  hasil.get(0).get(66)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_DISTRICT_OR_CITY_PROJECT_LOCATION_ID",
+  hasil.get(0).get(67)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_PROJECT_LOCATION_CITY",
+  hasil.get(0).get(69)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_CURRENCY",
+  hasil.get(0).get(70)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_INTEREST_RATE",
+  hasil.get(0).get(71)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_REWARD_ID",
+  hasil.get(0).get(72)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_INTEREST_TYPE",
+  hasil.get(0).get(73)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_QUALITY_ID",
+  hasil.get(0).get(74)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_quality",
+  hasil.get(0).get(75)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_DAYS_IN_ARREARS",
+  hasil.get(0).get(76)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_PROJECT_VALUE",
+  hasil.get(0).get(77)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_INITIAL_CEILING",
+  hasil.get(0).get(78)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_CEILING",
+  hasil.get(0).get(79)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_REALIZATIO",
+  hasil.get(0).get(80)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_VALUE_IN_ORIGINAL_MONEY",
+  hasil.get(0).get(81)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_BECAUSE_THE_ID_JAMMED",
+  hasil.get(0).get(82)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_BECAUSE_OF_TRAFFIC_JAMS",
+  hasil.get(0).get(83)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_DEFAULT_DATE",
+  hasil.get(0).get(84)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_PRINCIPAL_ARREARS",
+  hasil.get(0).get(85)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_INTEREST_ARREARS",
+  hasil.get(0).get(86)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ARREARS_FREQUENCY",
+  hasil.get(0).get(87)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_PENALTY",
+  hasil.get(0).get(88)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_RESTRUCTURING_FREQUENCY",
+  hasil.get(0).get(89)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_FINAL_RESTRUCTURING_DATE",
+  hasil.get(0).get(90)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_RESTRUCTURING_METHOD_ID",
+  hasil.get(0).get(91)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_RESTRUCTURING_METHOD",
+  hasil.get(0).get(92)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_CONDITION_ID",
+  hasil.get(0).get(93)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_CONDITION",
+  hasil.get(0).get(94)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_CONDITION_DATE",
+  hasil.get(0).get(95)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_DESCRIPTION",
+  hasil.get(0).get(96)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym01ht",
+  hasil.get(0).get(97)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym01",
+  hasil.get(0).get(98)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym01kol",
+  hasil.get(0).get(99)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym02ht",
+  hasil.get(0).get(100)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym02",
+  hasil.get(0).get(101)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym02kol",
+  hasil.get(0).get(102)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym03ht",
+  hasil.get(0).get(103)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym03",
+  hasil.get(0).get(104)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym03kol",
+  hasil.get(0).get(105)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym04ht",
+  hasil.get(0).get(106)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym04",
+  hasil.get(0).get(107)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym04kol",
+  hasil.get(0).get(108)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym05ht",
+  hasil.get(0).get(109)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym05",
+  hasil.get(0).get(110)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym05kol",
+  hasil.get(0).get(111)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym06ht",
+  hasil.get(0).get(112)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym06",
+  hasil.get(0).get(113)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym06kol",
+  hasil.get(0).get(114)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym07ht",
+  hasil.get(0).get(115)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym07",
+  hasil.get(0).get(116)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym07kol",
+  hasil.get(0).get(117)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym08ht",
+  hasil.get(0).get(118)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym08",
+  hasil.get(0).get(119)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym08kol",
+  hasil.get(0).get(120)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym09ht",
+  hasil.get(0).get(121)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym09",
+  hasil.get(0).get(122)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym09kol",
+  hasil.get(0).get(123)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym10ht",
+  hasil.get(0).get(124)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym10",
+  hasil.get(0).get(125)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym10kol",
+  hasil.get(0).get(126)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym11ht",
+  hasil.get(0).get(127)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym11",
+  hasil.get(0).get(128)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym11kol",
+  hasil.get(0).get(129)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym12ht",
+  hasil.get(0).get(130)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym12",
+  hasil.get(0).get(131)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym12kol",
+  hasil.get(0).get(132)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym13ht",
+  hasil.get(0).get(133)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym13",
+  hasil.get(0).get(134)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym13kol",
+  hasil.get(0).get(135)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym14ht",
+  hasil.get(0).get(136)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym14",
+  hasil.get(0).get(137)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym14kol",
+  hasil.get(0).get(138)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym15ht",
+  hasil.get(0).get(139)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym15",
+  hasil.get(0).get(140)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym15kol",
+  hasil.get(0).get(141)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym16ht",
+  hasil.get(0).get(142)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym16",
+  hasil.get(0).get(143)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym16kol",
+  hasil.get(0).get(144)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym17ht",
+  hasil.get(0).get(145)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym17",
+  hasil.get(0).get(146)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym17kol",
+  hasil.get(0).get(147)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym18ht",
+  hasil.get(0).get(148)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym18",
+  hasil.get(0).get(149)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym18kol",
+  hasil.get(0).get(150)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym19ht",
+  hasil.get(0).get(151)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym19",
+  hasil.get(0).get(152)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym19kol",
+  hasil.get(0).get(153)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym20ht",
+  hasil.get(0).get(154)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym20",
+  hasil.get(0).get(155)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym20kol",
+  hasil.get(0).get(156)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym21ht",
+  hasil.get(0).get(157)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym21",
+  hasil.get(0).get(158)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym21kol",
+  hasil.get(0).get(159)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym22ht",
+  hasil.get(0).get(160)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym22",
+  hasil.get(0).get(161)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym22kol",
+  hasil.get(0).get(162)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym23ht",
+  hasil.get(0).get(163)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym23",
+  hasil.get(0).get(164)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym23kol",
+  hasil.get(0).get(165)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym24ht",
+  hasil.get(0).get(166)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym24",
+  hasil.get(0).get(167)
+);
+obj.put(
+  "lmsretail_micro_t_checkingresponse_slik_spouse_ym24kol",
+  hasil.get(0).get(168)
+);
+
+updatedGrid.add(obj);
+ifr.addDataToDoclist(
+  "lmsretail_micro_t_checkingresponse_slik_spouse",
+  updatedGrid
+);
